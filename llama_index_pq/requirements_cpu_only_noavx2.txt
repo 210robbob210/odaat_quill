@@ -4,7 +4,7 @@ https://github.com/oobabooga/llama-cpp-python-cuBLAS-wheels/releases/download/cp
 https://github.com/oobabooga/llama-cpp-python-cuBLAS-wheels/releases/download/cpu/llama_cpp_python-0.2.69+cpuavx-cp311-cp311-win_amd64.whl; platform_system == "Windows" and python_version == "3.11"
 https://github.com/oobabooga/llama-cpp-python-cuBLAS-wheels/releases/download/cpu/llama_cpp_python-0.2.69+cpuavx-cp310-cp310-win_amd64.whl; platform_system == "Windows" and python_version == "3.10"
 
-gradio==4.29.0
+gradio==4.44.0
 llama-index>=0.10.15
 llama-index-vector-stores-qdrant
 llama-index-embeddings-huggingface

@@ -1,4 +1,4 @@
-gradio==4.19.2
+gradio==4.44.0
 llmware
 qdrant-client
 opencv-python
